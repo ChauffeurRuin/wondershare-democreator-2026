@@ -210,9 +210,5 @@ Wondershare DemoCreator 2026, DemoCreator, DemoCreator Windows, DemoCreator PC, 
 
 ---
 
-## 📜 License
 
-Wondershare DemoCreator is proprietary software developed by Wondershare and is subject to its applicable software license terms.
-
-The **Proprietary** badge above refers to the software's licensing model and should not be interpreted as an MIT license.
 
